@@ -1,5 +1,5 @@
 # react-pre-planner
-Modified version of react-planner for spécifiq use case.
+Modified version of react-planner for specific use case.
 
 ## Usage
 
